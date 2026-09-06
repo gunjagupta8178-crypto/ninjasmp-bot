@@ -73,7 +73,7 @@ async def status_cmd(ctx):
     embed = discord.Embed(
         title="🔥 NinjaMC - Lifesteal SMP",
         description="**Server is Online!** ❤️\n\n"
-                    f"**IP:** `play.ninjasmp.in`\n"
+                    f"**IP:** `play.ninjasmp.fun`\n"
                     f"**Version:** 1.19 - 1.21+\n"
                     f"**Mode:** Lifesteal ❤️\n\n"
                     f"Join now and steal hearts! ⚔️",
